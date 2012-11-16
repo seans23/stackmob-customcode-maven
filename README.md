@@ -1,6 +1,6 @@
 ## StackMob Custom Code Example Project (Maven-based)
 
-This example project is a simple Hello World.  This adds a server-side method called "hello_world" which can be called from your client iOS, Android, Java Client or JS SDKs:
+ This example project is a simple Hello World.  This adds a server-side method called "hello_world" which can be called from your client iOS, Android, Java Client or JS SDKs:
 
     http://api.stackmob.com/hello_world
     
